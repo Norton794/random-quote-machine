@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App snapshot 1`] = `
+<div
+  id="quote-box"
+>
+  <h3
+    id="text"
+  >
+    Everything that irritates us about others can lead us to an understanding of ourselves.
+  </h3>
+  <p
+    id="author"
+  >
+     - 
+    Carl Gustav Jung
+  </p>
+  <div
+    id="group-buttons"
+  >
+    <button
+      id="new-quote"
+      onClick={[Function]}
+    >
+      New Quote
+    </button>
+  </div>
+</div>
+`;
